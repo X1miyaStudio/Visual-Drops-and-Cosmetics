@@ -1,0 +1,42 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "group":  "x1miya_itemdrop:tools",
+    "pattern":  [
+                    " L ",
+                    "RER",
+                    " C "
+                ],
+    "key":  {
+                "L":  "minecraft:lime_dye",
+                "R":  "minecraft:redstone",
+                "E":  "minecraft:echo_shard",
+                "C":  "minecraft:copper_ingot"
+            },
+    "result":  {
+                   "id":  "minecraft:echo_shard",
+                   "count":  1,
+                   "components":  {
+                                      "minecraft:custom_data":  {
+                                                                    "x1miya_itemdrop":  {
+                                                                                            "lock_key":  1
+                                                                                        }
+                                                                },
+                                      "minecraft:item_name":  {
+                                                                  "translate":  "x1miya_itemdrop.item.lock_key",
+                                                                  "fallback":  "XS Lock Key",
+                                                                  "color":  "green",
+                                                                  "bold":  true
+                                                              },
+                                      "minecraft:lore":  [
+                                                             {
+                                                                 "translate":  "x1miya_itemdrop.item.lock_key.lore",
+                                                                 "fallback":  "Right Click a grounded item",
+                                                                 "color":  "dark_green",
+                                                                 "italic":  false
+                                                             }
+                                                         ],
+                                      "minecraft:enchantment_glint_override":  true
+                                  }
+               }
+}
