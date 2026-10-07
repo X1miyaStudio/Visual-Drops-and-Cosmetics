@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:00FF88&height=180&section=header&text=Visual%20Drops%20%26%20Cosmetics&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" alt="Visual Drops Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:00FF88&height=180&section=header&text=Visual%20Drops%20%26amp%3B%20Cosmetics&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" alt="Visual Drops and Cosmetics Banner" />
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-00FF88?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 [![Item Display](https://img.shields.io/badge/Engine-Item_Display_3D-blueviolet?style=for-the-badge)](https://github.com/X1miyaStudio/Visual-Drops-and-Cosmetics)
