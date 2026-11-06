@@ -17,8 +17,9 @@
 
 Держи ключ и нажми ПКМ по предмету на земле, чтобы заблокировать или разблокировать его. Игрок без прав оператора может получить ключ командой `/trigger x1di.lock_key`.
 
-## Установка
+## Совместимость и установка
 
-Помести ZIP в `<мир>/datapacks/`, затем выполни `/reload`.
+- **Minecraft Java Edition 1.20.5 – 26.3+** — единый мультиверсионный архив на базе нативных **Overlays** (`overlay_1_20_5`, `overlay_1_21_2`, `overlay_1_21_5`).
+- Помести ZIP в `<мир>/datapacks/`, затем выполни `/reload`.
 
-Minecraft Java Edition **1.21.11** · Ванильный датапак · Namespace `x1miya_itemdrop` · All Rights Reserved · X1miyaStudio
+Minecraft Java Edition **1.20.5 – 26.3+** · Ванильный датапак · Namespace `x1miya_itemdrop` · All Rights Reserved · X1miyaStudio

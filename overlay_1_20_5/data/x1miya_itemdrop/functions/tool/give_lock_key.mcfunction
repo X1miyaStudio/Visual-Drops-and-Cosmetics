@@ -1,0 +1,2 @@
+give @s minecraft:echo_shard[minecraft:custom_data={x1miya_itemdrop:{lock_key:1b}},minecraft:item_name='{"translate":"x1miya_itemdrop.item.lock_key","fallback":"XS Lock Key","color":"green","bold":true}',minecraft:lore=['{"translate":"x1miya_itemdrop.item.lock_key.lore","fallback":"Right Click a grounded item","color":"dark_green","italic":false}'],minecraft:enchantment_glint_override=true] 1
+title @s actionbar {"translate":"x1miya_itemdrop.message.key_given","fallback":"XS // Echo Shard works as the Lock Key","color":"green"}
