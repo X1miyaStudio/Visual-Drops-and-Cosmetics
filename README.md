@@ -5,6 +5,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.5%20--%2026.3%2B-00FF88?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 [![Modrinth EN](https://img.shields.io/badge/Modrinth-EN-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/visual-drops-and-cosmetics)
 [![Modrinth RU](https://img.shields.io/badge/Modrinth-RU-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/visual-drops-and-cosmetics-ru)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics)
 [![Item Display](https://img.shields.io/badge/Engine-Item_Display_3D-blueviolet?style=for-the-badge)](https://github.com/X1miyaStudio/Visual-Drops-and-Cosmetics)
 [![Namespace](https://img.shields.io/badge/Namespace-x1miya__itemdrop-blue?style=for-the-badge)](https://github.com/X1miyaStudio/Visual-Drops-and-Cosmetics)
 [![Studio](https://img.shields.io/badge/Studio-X1miyaStudio-064E3B?style=for-the-badge)](https://t.me/X1miyaStudio)
@@ -52,7 +53,7 @@
 * ✅ **Одиночная игра и мультиплеер** — работает на любом сервере (Vanilla, Fabric, Forge, NeoForge, Paper, Purpur).
 
 #### Установка:
-1. Скачайте нужную версию датапака ([Modrinth EN](https://modrinth.com/datapack/visual-drops-and-cosmetics) — `Visual_Drops_and_Cosmetics_v2_EN.zip`, [Modrinth RU](https://modrinth.com/datapack/visual-drops-and-cosmetics-ru) — `Visual_Drops_and_Cosmetics_v2_RU.zip`) и поместите архив в папку `<world>/datapacks/`.
+1. Скачайте нужную версию датапака ([Modrinth EN](https://modrinth.com/datapack/visual-drops-and-cosmetics) — `Visual_Drops_and_Cosmetics_v2_EN.zip`, [Modrinth RU](https://modrinth.com/datapack/visual-drops-and-cosmetics-ru) — `Visual_Drops_and_Cosmetics_v2_RU.zip`, [CurseForge](https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics) — EN + RU Additional File) и поместите архив в папку `<world>/datapacks/`.
 2. Выполните `/reload` в игре.
 
 ---
@@ -64,6 +65,7 @@ Minecraft Java Edition **1.20.5 – 26.3+** · Vanilla datapack · Namespace `x1
 
 [![Modrinth EN](https://img.shields.io/badge/Modrinth-EN-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/visual-drops-and-cosmetics)
 [![Modrinth RU](https://img.shields.io/badge/Modrinth-RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/visual-drops-and-cosmetics-ru)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=flat-square&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics)
 [![Telegram](https://img.shields.io/badge/Telegram-@X1miyaStudio-blue?style=flat-square&logo=telegram)](https://t.me/X1miyaStudio)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pwk6X8ecNJ)
 
