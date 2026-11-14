@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:00FF88&height=180&section=header&text=Visual%20Drops%20%26amp%3B%20Cosmetics&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" alt="Visual Drops and Cosmetics Banner" />
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.5%20--%2026.3%2B-00FF88?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
-[![Modrinth EN](https://img.shields.io/badge/Modrinth-EN-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/visual-drops-and-cosmetics)
-[![Modrinth RU](https://img.shields.io/badge/Modrinth-RU-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/visual-drops-and-cosmetics-ru)
+[![Modrinth](https://img.shields.io/badge/Modrinth-EN_%2B_RU-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/visual-drops-and-cosmetics)
 [![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics)
 [![Item Display](https://img.shields.io/badge/Engine-Item_Display_3D-blueviolet?style=for-the-badge)](https://github.com/X1miyaStudio/Visual-Drops-and-Cosmetics)
 [![Namespace](https://img.shields.io/badge/Namespace-x1miya__itemdrop-blue?style=for-the-badge)](https://github.com/X1miyaStudio/Visual-Drops-and-Cosmetics)
@@ -53,7 +52,7 @@
 * ✅ **Одиночная игра и мультиплеер** — работает на любом сервере (Vanilla, Fabric, Forge, NeoForge, Paper, Purpur).
 
 #### Установка:
-1. Скачайте нужную версию датапака ([Modrinth EN](https://modrinth.com/datapack/visual-drops-and-cosmetics) — `Visual_Drops_and_Cosmetics_v2_EN.zip`, [Modrinth RU](https://modrinth.com/datapack/visual-drops-and-cosmetics-ru) — `Visual_Drops_and_Cosmetics_v2_RU.zip`, [CurseForge](https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics) — EN + RU Additional File) и поместите архив в папку `<world>/datapacks/`.
+1. Скачайте нужную версию датапака ([Modrinth (EN + RU)](https://modrinth.com/datapack/visual-drops-and-cosmetics) — `Visual_Drops_and_Cosmetics_v2_EN.zip` / `Visual_Drops_and_Cosmetics_v2_RU.zip`, [CurseForge](https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics) — EN + RU) и поместите архив в папку `<world>/datapacks/`.
 2. Выполните `/reload` в игре.
 
 ---
@@ -63,8 +62,7 @@
 Minecraft Java Edition **1.20.5 – 26.3+** · Vanilla datapack · Namespace `x1miya_itemdrop` · All Rights Reserved  
 © 2026 **[X1miyaStudio](https://github.com/X1miyaStudio)**
 
-[![Modrinth EN](https://img.shields.io/badge/Modrinth-EN-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/visual-drops-and-cosmetics)
-[![Modrinth RU](https://img.shields.io/badge/Modrinth-RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/visual-drops-and-cosmetics-ru)
+[![Modrinth](https://img.shields.io/badge/Modrinth-EN_%2B_RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/visual-drops-and-cosmetics)
 [![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=flat-square&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics)
 [![Telegram](https://img.shields.io/badge/Telegram-@X1miyaStudio-blue?style=flat-square&logo=telegram)](https://t.me/X1miyaStudio)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pwk6X8ecNJ)

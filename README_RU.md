@@ -24,8 +24,7 @@
 
 ## Ссылки
 
-- **Modrinth (Русская версия):** https://modrinth.com/datapack/visual-drops-and-cosmetics-ru
-- **Modrinth (English):** https://modrinth.com/datapack/visual-drops-and-cosmetics
+- **Modrinth (EN + RU):** https://modrinth.com/datapack/visual-drops-and-cosmetics
 - **CurseForge (EN + RU):** https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics
 
 Minecraft Java Edition **1.20.5 – 26.3+** · Ванильный датапак · Namespace `x1miya_itemdrop` · All Rights Reserved · X1miyaStudio
